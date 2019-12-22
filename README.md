@@ -31,6 +31,7 @@ Verificare l'impatto sulle performance dato da:
 </li>
 </ul>
 <a name="aboutme"></a>
+
 ## &#9741; &nbsp; About me
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
