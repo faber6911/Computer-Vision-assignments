@@ -28,6 +28,8 @@ Verificare l'impatto sulle performance dato da:
   <li>Una diversa architettura</li>
   <li>Operazioni di data augmentation</li>
 </ul>
+
+L'assignment #5 è stato originariamente prodotto utilizzando <a href = "https://colab.research.google.com">Google Colab</a>. Si consiglia pertanto di aprirlo utilizzando questo servizio sfruttando il button presente nel notebook oppure utilizzando l'<a href="https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo">estensione</a> per aprire notebook in Colab da Google Chrome.
 </li>
 </ul>
 <a name="aboutme"></a>
