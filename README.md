@@ -20,8 +20,16 @@
   <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E03_DIntinosante_Fabrizio_838866.ipynb">assignment #2</a> richiede di implementare la funzione di sharpening per esaltare i dettagli di un'immagine in scala di grigi tramite unsharp mask, partendo dalle istruzioni viste ad esercitazione. Verificare l'effetto di diversi parametri coinvolti nelle operazioni utilizzate.</li>
   <li>Nell'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E04_DIntinosante_Fabrizio_838866.ipynb">assignment #3</a> la richiesta è quella di implementare uno script di image stitching tra due immagini, partendo dalle istruzioni viste ad esercitazione.</li>
   <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E05_DIntinosante_Fabrizio_838866.ipynb">assignment #4</a> richiede di implementare una rete neurale per la classificazione del dataset <b>MNIST</b> a partire dalle istruzioni viste ad esercitazione, costruendo una precisa architettura.</li>
-</ul>
 
+<li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E06_DIntinosante_Fabrizio_838866.ipynb">assignment #5</a> prevede l'implementazione di uno script di classificazione basato sul fine tuning di feature neurali, a partire dalle istruzioni viste ad esercitazione.
+
+Verificare l'impatto sulle performance dato da:
+<ul>
+  <li>Una diversa architettura</li>
+  <li>Operazioni di data augmentation</li>
+</ul>
+</li>
+</ul>
 <a name="aboutme"></a>
 ## &#9741; &nbsp; About me
 
