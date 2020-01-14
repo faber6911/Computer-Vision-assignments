@@ -16,12 +16,12 @@
 ## &#9741; &nbsp; Overview
 
 <ul>
-  <li>Per l'<a href="https://github.com/faber6911/Computer-Vision-assignments/blob/master/E02_DIntinosante_Fabrizio_838866.ipynb">assignment #1</a> l'obiettivo è implementare la feature Zero-crossing rate (ZCR) per la descrizione di un segnale audio monocanale, partendo dalle istruzioni viste ad esercitazione. E' inoltre richiesto di verificare l'effetto dell'uso di ZCR in combinazione con altre feature presentate ad esercitazione.</li>
-  <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E03_DIntinosante_Fabrizio_838866.ipynb">assignment #2</a> richiede di implementare la funzione di sharpening per esaltare i dettagli di un'immagine in scala di grigi tramite unsharp mask, partendo dalle istruzioni viste ad esercitazione. Verificare l'effetto di diversi parametri coinvolti nelle operazioni utilizzate.</li>
-  <li>Nell'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E04_DIntinosante_Fabrizio_838866.ipynb">assignment #3</a> la richiesta è quella di implementare uno script di image stitching tra due immagini, partendo dalle istruzioni viste ad esercitazione.</li>
-  <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E05_DIntinosante_Fabrizio_838866.ipynb">assignment #4</a> richiede di implementare una rete neurale per la classificazione del dataset <b>MNIST</b> a partire dalle istruzioni viste ad esercitazione, costruendo una precisa architettura.</li>
+  <li>Per l'<a href="https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%231">assignment #1</a> l'obiettivo è implementare la feature Zero-crossing rate (ZCR) per la descrizione di un segnale audio monocanale, partendo dalle istruzioni viste ad esercitazione. E' inoltre richiesto di verificare l'effetto dell'uso di ZCR in combinazione con altre feature presentate ad esercitazione.</li>
+  <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%232">assignment #2</a> richiede di implementare la funzione di sharpening per esaltare i dettagli di un'immagine in scala di grigi tramite unsharp mask, partendo dalle istruzioni viste ad esercitazione. Verificare l'effetto di diversi parametri coinvolti nelle operazioni utilizzate.</li>
+  <li>Nell'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%233">assignment #3</a> la richiesta è quella di implementare uno script di image stitching tra due immagini, partendo dalle istruzioni viste ad esercitazione.</li>
+  <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%234">assignment #4</a> richiede di implementare una rete neurale per la classificazione del dataset <b>MNIST</b> a partire dalle istruzioni viste ad esercitazione, costruendo una precisa architettura.</li>
 
-<li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/E06_DIntinosante_Fabrizio_838866.ipynb">assignment #5</a> prevede l'implementazione di uno script di classificazione basato sul fine tuning di feature neurali, a partire dalle istruzioni viste ad esercitazione.
+<li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%235">assignment #5</a> prevede l'implementazione di uno script di classificazione basato sul fine tuning di feature neurali, a partire dalle istruzioni viste ad esercitazione.
 
 Verificare l'impatto sulle performance dato da:
 <ul>
