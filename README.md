@@ -14,7 +14,7 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-Prova
+
 <ul>
   <li>Per l'<a href="https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%231">assignment #1</a> l'obiettivo è implementare la feature Zero-crossing rate (ZCR) per la descrizione di un segnale audio monocanale, partendo dalle istruzioni viste ad esercitazione. E' inoltre richiesto di verificare l'effetto dell'uso di ZCR in combinazione con altre feature presentate ad esercitazione.</li>
   <li>L'<a href = "https://github.com/faber6911/Computer-Vision-assignments/blob/master/Assignment%20%232">assignment #2</a> richiede di implementare la funzione di sharpening per esaltare i dettagli di un'immagine in scala di grigi tramite unsharp mask, partendo dalle istruzioni viste ad esercitazione. Verificare l'effetto di diversi parametri coinvolti nelle operazioni utilizzate.</li>
